@@ -1,5 +1,3 @@
-haesol2022/README.md
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=solsol%&fontSize=100" />
 </p>
