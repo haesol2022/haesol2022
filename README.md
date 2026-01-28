@@ -17,6 +17,10 @@
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haesol2022&show_icons=true&theme=radical)
+
+---
+
 ### 📫 Contact
 
 - Email: haesol2022@naver.com
